@@ -1,5 +1,3 @@
-## D. Nick Weber
-
 ![Book logo](/docs/assets/D5411BE5-6BB4-4E5B-B407-A0061BD54C39_1_105_c.jpeg)
 
 ### Markdown
