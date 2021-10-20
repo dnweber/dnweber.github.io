@@ -1,10 +1,4 @@
-html { 
-  background: url(/docs/assets/D5411BE5-6BB4-4E5B-B407-A0061BD54C39_1_105_c.jpeg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+<img src="https://github.com/dnweber/dnweber.github.io/blob/main/docs/assets/D5411BE5-6BB4-4E5B-B407-A0061BD54C39_1_105_c.jpeg" width=100%>
 
 ![Book logo](/docs/assets/D5411BE5-6BB4-4E5B-B407-A0061BD54C39_1_105_c.jpeg)
 
